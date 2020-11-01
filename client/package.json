@@ -17,7 +17,16 @@
     "bootstrap": "^4.3.1",
     "bootstrap-autocomplete": "^2.3.7",
     "jquery": "^3.4.1",
-    "typed.js": "^2.0.10"
+    "typed.js": "^2.0.10",
+    "cors": "^2.8.5",
+    "express": "^4.16.3",
+    "if-env": "^1.0.4",
+    "mongoose": "^5.10.10",
+    "path": "^0.12.7",
+    "pusher": "^4.0.0",
+    "react-bootstrap": "^1.4.0",
+    "concurrently": "^4.1.0",
+    "nodemon": "^1.18.7"
   },
   "scripts": {
     "start": "react-scripts start",
